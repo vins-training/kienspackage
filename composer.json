@@ -1,0 +1,11 @@
+{
+    "name": "kiendo/mypackage",
+    "description": "nothing",
+    "authors": [
+        {
+            "name": "kiendv",
+            "email": "kiendv@vinsofts.net"
+        }
+    ],
+    "require": {}
+}
